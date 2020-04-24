@@ -83,7 +83,7 @@ While we assume your `node` service is running on port `80` we recognize that ma
 services:
   my-service:
     type: node
-    port: 3000
+    port: '3000'
 ```
 
 ### Using SSL
